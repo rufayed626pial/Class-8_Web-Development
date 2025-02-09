@@ -1,0 +1,6 @@
+ &nbsp : line speace 
+ center tag 
+ style attribute for background colour
+
+
+ 
