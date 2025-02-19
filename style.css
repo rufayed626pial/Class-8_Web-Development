@@ -1,0 +1,57 @@
+.form{
+    background-color: aquamarine;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: blue;
+}
+
+.email{
+    width: 90%;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.password{
+    width: 90%;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    /* margin-top: 5px; */
+}
+
+.btn{
+    margin-left: 120px;
+    /* padding: 150px; */
+    margin-top: 30px;
+    width: 150px;
+    border: 2px solid black;
+}
+
+.Email_ID{
+    color: olivedrab;
+}
+
+.Password{
+    color: olivedrab;
+}
+
+.form2{
+    background-color: aquamarine;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+
